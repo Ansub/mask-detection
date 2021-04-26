@@ -1,5 +1,5 @@
 # Mask Detection 
-seeing the increase in the covid-19 cases and tha lack of social distancing and usaage of Mask, i made a mask detecting application using Keras/tensorflow and OpenCV.
+seeing the increase in the covid-19 cases and the lack of social distancing and usaage of Mask, i made a mask detecting application using Keras/tensorflow and OpenCV.this can detect whether people are wearing face mask or not. If they are wearing it, green square will appear on their face, if they are not wearing it then red square will appear on their face.
 
 ## Requirements
 - Tensorflow
