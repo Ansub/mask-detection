@@ -1,5 +1,5 @@
 # Mask Detection 
-seeing the increase in the covid-19 cases and tha lack of social distancing and usaage of Mask, i thought of making a mask detection application using Keras/tensorflow and OpenCV.
+seeing the increase in the covid-19 cases and tha lack of social distancing and usaage of Mask, i made a mask detecting application using Keras/tensorflow and OpenCV.
 
 ## Requirements
 - Tensorflow
