@@ -18,7 +18,7 @@ seeing the increase in the covid-19 cases and tha lack of social distancing and 
 - install the requirements
 - download the dataset and put all of them inside the cloned folder
 - assgined the path inside the  notebook of the files required 
-- run mask_detection.ipynb
+- run mask_detection.ipynb in Juypter Notebooks
 
 and there you have it. a working model  which can detect the faces using webcam.
 
