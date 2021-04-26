@@ -12,5 +12,5 @@ seeing the increase in the covid-19 cases and tha lack of social distancing and 
  ```bash
  git clone git@github.com:Ansub/mask-detection.git
 ```
-- Download the trained model and dataset from [here] () <a href="http://bit.ly/ansub-mask-detection"> Here <a>
+- Download the trained model and dataset from <a href="http://bit.ly/ansub-mask-detection"> Here <a>
 
