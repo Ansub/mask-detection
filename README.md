@@ -22,5 +22,5 @@ seeing the increase in the covid-19 cases and tha lack of social distancing and 
 
 and there you have it. a working model  which can detect the faces using webcam.
 
---- 
+
 Made with ❤ by Ansub Khan in April 2021
