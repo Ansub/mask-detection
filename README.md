@@ -2,9 +2,9 @@
 seeing the increase in the covid-19 cases and tha lack of social distancing and usaage of Mask, i thought of making a mask detection application using Keras/tensorflow and OpenCV.
 
 ## Requirements
-- tensorflow
-- cv2
-- numpy
+- Tensorflow
+- CV2
+- NumPY
 - MobileNetV2
 
 ## Installation
@@ -14,3 +14,13 @@ seeing the increase in the covid-19 cases and tha lack of social distancing and 
 ```
 - Download the trained model and dataset from <a href="http://bit.ly/ansub-mask-detection"> Here <a>
 
+## Usage
+- install the requirements
+- download the dataset and put all of them inside the cloned folder
+- assgined the path inside the  notebook of the files required 
+- run mask_detection.ipynb
+
+and there you have it. a working model  which can detect the faces using webcam.
+
+--- 
+Made with ❤ by Ansub Khan in April 2021
