@@ -10,5 +10,8 @@ seeing the increase in the covid-19 cases and tha lack of social distancing and 
 
  ---
 ## Installation
-- Clone the repository: https://github.com/Ansub/mask-detection.git
+- Clone the repository
+- ```bash
+https://github.com/Ansub/mask-detection.git
+```
 - Download the trained model and dataset from [here] (http://bit.ly/ansub-mask-detection)
